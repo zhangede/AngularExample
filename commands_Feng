@@ -1,0 +1,7 @@
+npm install
+
+ng new Fullstack.UI
+
+ng serve --o
+
+ng g c employees-list
